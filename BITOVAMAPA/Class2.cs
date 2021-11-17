@@ -17,9 +17,9 @@ namespace BITOVAMAPA
 
             private void btnZobrazitBitmapu_Click(object sender, EventArgs e)
             {
-                // Založení nové instance třídy BitovaMapa.
+                
                 BitovaMapa bitmapa = new BitovaMapa();
-                // Zobrazení bitové mapy na ploše formuláře.
+                
                 bitmapa.ZobrazitBitovouMapu();
             }
 
