@@ -12,7 +12,7 @@ namespace BITOVAMAPA
         {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); // vyhazuje chybu 
         }
 
             private void btnZobrazitBitmapu_Click(object sender, EventArgs e)
